@@ -1,0 +1,9 @@
+games:
+  - name: Apex
+    price: 0
+  - name: Once Human
+    price: 1.99
+  - name: Cyberpank
+    price: 28.23
+  - name: Hunt Showdown
+    price: 16.43
